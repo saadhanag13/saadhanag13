@@ -42,4 +42,4 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DFF7DD&lines=Until+next+time!++Thankyou!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4123D5&lines=Until+next+time!+Thankyou!)](https://git.io/typing-svg)
