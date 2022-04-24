@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Computer+Science+Engineer;I+love+to+read+books)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Reactjs, flutter, and all front-end frameworks**
+- 🌱 I’m currently learning **Flutter, Quantum Machine Learning using Python frameworks** 
 
-- 💬 Ask me about **HTML,CSS,Python**
+- 💬 Ask me about **Web developement frameworks, Python, ReactJs, UI/UX, Contents**
 
 - 📫 How to reach me **saadhana.ganesh13@gmail.com**
 
-- ⚡ Fun fact **when you can't even have a dream**
+- ⚡ Fun fact **I love dogs when i can't even afford them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
