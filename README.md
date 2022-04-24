@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saadhana Ganesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Computer+Science+Engineer;I+love+to+read+books)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **Reactjs, flutter, and all front-end frameworks**
 
 - 💬 Ask me about **HTML,CSS,Python**
