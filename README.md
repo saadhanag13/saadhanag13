@@ -35,5 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadhanag13&show_icons=true&locale=en" alt="saadhanag13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhanag13&" alt="saadhanag13" /></p>
+<br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Until+next+time!++Thankyou!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DFF7DD&lines=Until+next+time!++Thankyou!)](https://git.io/typing-svg)
