@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saadhana.ganesh13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fGTY7oYPs-cczUyO20w_PnhvA7iD-0qF/view](https://drive.google.com/file/d/1fGTY7oYPs-cczUyO20w_PnhvA7iD-0qF/view)
+- 📄 Know about my experiences [https://saadhanag13.github.io/MyResume/](https://saadhanag13.github.io/MyResume/)
 
 - ⚡ Fun fact **I love dogs when I can't even afford them.**
 
