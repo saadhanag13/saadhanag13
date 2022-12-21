@@ -1,45 +1,19 @@
-<h1 align="center">Hey Developers 👋, I'm Saadhana Ganesh</h1>
-<h3 align="center">A passionate Front end web & Python Developer</h3>
+### Hi there 👋, I'm Saadhana Ganesh 
+#### A passionate Front end web & Python Developer
+![A passionate Front end web & Python Developer](https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Computer+Science+Engineer;I+love+to+read+books)](https://git.io/typing-svg)
+bone idle to pen a biography
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadhanag13&label=Profile%20views&color=0e75b6&style=flat" alt="saadhanag13" /> </p>
+- 🔭 I’m currently working on QML & 2D Non-Linear Dynamics 
+- 🌱 I’m currently learning DSA, Quantum Machine Learning using Python Frameworks 
+- 💬 Ask me about Web development and designing frameworks, Python 
+- 📫 How to reach me: saadhana.ganesh13@gmail.com 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I love dogs when I can't even afford them. 
 
-- 🔭 I’m currently working on **QML & 2D Non-Linear Dynamics**
 
-- 🌱 I’m currently learning **Flutter, Quantum Machine Learning using Python Frameworks**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saadhanag13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saadhana-ganesh-45a50a18b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/saadhana._.ganesh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/saadhana_ganesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/saadhanaganesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18926720/saadhana-g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://saadhanag13.github.io/MyResume/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/saadhanaganesh13/practice)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/saadhana_ganesh1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/user2495db/)  
 
-- 💬 Ask me about **Web development and designing frameworks, Python**
 
-- 📫 How to reach me **saadhana.ganesh13@gmail.com**
-
-- 📄 Know about my experiences [https://saadhanag13.github.io/MyResume/](https://saadhanag13.github.io/MyResume/)
-
-- ⚡ Fun fact **I love dogs when I can't even afford them.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/saadhanaganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/saadhanaganesh" height="30" width="40" /></a>
-<a href="https://twitter.com/saadhana_ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadhana_ganesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saadhana-ganesh-45a50a18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saadhana-ganesh-45a50a18b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18926720/saadhana-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18926720/saadhana-g" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saadhana._.ganesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saadhana._.ganesh/" height="30" width="40" /></a>
-<a href="https://medium.com/@saadhana.ganesh13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saadhana.ganesh13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/saadhana_ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/saadhana_ganesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user2495db/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user2495db/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadhanag13&show_icons=true&locale=en&layout=compact" alt="saadhanag13" /></p>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadhanag13&show_icons=true&locale=en" alt="saadhanag13" /></p>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhanag13&" alt="saadhanag13" /></p>
-<br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4123D5&lines=Until+next+time!+Thankyou!)](https://git.io/typing-svg)
