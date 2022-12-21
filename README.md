@@ -45,5 +45,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadhanag13&show_icons=true&locale=en" alt="saadhanag13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhanag13&" alt="saadhanag13" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadhanag13)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadhanag13)  
+
+![GitHub metrics](https://metrics.lecoq.io/saadhanag13)  
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4123D5&lines=Until+next+time!+Thankyou!)](https://git.io/typing-svg)
