@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saadhana Ganesa Narasimhan</h1>
-<h3 align="center">A passionate web developer and Python developer</h3>
+<h3 align="center">A passionate web developer and Intermediate Python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadhanag13&label=Profile%20views&color=0e75b6&style=flat" alt="saadhanag13" /> </p>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/saadhana_ganesh" target="blank"><img src="https://img.shields.io/twitter/follow/saadhana_ganesh?logo=twitter&style=for-the-badge" alt="saadhana_ganesh" /></a> </p>
 
-- 🔭 I’m currently working on **QML & 2D Non-Linear Dynamics**
+- 🔭 I’m currently working on **Data Science & Analytics**
 
 - 🌱 I’m currently learning **DSA, Quantum Machine Learning using Python Frameworks**
 
