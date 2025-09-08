@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saadhana Ganesa Narasimhan</h1>
-<h3 align="center">A passionate web developer and Intermediate Python developer</h3>
+<h3 align="center">A MSc Graduate from University of Leeds || AI/ML Engineer || Python developer || Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadhanag13&label=Profile%20views&color=0e75b6&style=flat" alt="saadhanag13" /> </p>
 
